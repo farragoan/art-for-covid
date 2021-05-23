@@ -3,10 +3,7 @@ title: Donor Artworks
 subtitle: Some of the artwork created for Art for Covid.
 date: '2021-05-23'
 thumb_img_alt: A man standing on a rock cliff overlooking a river
-excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+excerpt: Some artwork created as part of the initiative.
 hide_header: false
 seo:
   title: Basic Rules For Walking In The Mountains
