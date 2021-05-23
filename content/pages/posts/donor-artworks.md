@@ -38,7 +38,7 @@ seo:
       value: images/1.jpg
       relativeUrl: true
 layout: post
-thumb_img_path: images/1.jpg
+thumb_img_path: images/ART FOR COVID-3.png
 content_img_path: images/ART FOR COVID-3.png
 ---
 ![](/\_static/app-assets/5.png)
