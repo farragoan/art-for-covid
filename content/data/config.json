@@ -22,7 +22,7 @@
             },
             {
                 "label": "Donor Artworks",
-                "url": "/donor-artworks",
+                "url": "posts/donor-artworks",
                 "style": "link"
             },
             {
