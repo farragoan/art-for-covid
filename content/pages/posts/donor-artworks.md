@@ -41,18 +41,18 @@ layout: post
 thumb_img_path: images/ART FOR COVID-3.png
 content_img_path: images/ART FOR COVID-3.png
 ---
-![](/\_static/app-assets/Untitled_Artwork%20copy.png)
+![](images/Untitled_Artwork%20copy.png)
 
-![](/public/images/ArtForCovid.png)
+![](images/ArtForCovid.png)
 
-![](/public/images/IMG_1841.jpg)
+![](images/IMG_1841.jpg)
 
-![](../../../public/images/Untitled_Artwork%201.png)
+![](images/Untitled_Artwork%201.png)
 
-![](../../../public/images/Untitled_Artwork%20copy.png)
+![](images/Untitled_Artwork%20copy.png)
 
-![](../../../public/images/Art_For_COVID_45.png)
+![](images/Art_For_COVID_45.png)
 
-![](../../../public/images/IMG_1841.jpg)
+![](images/IMG_1841.jpg)
 
 

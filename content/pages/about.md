@@ -35,4 +35,4 @@ layout: page
 2\) In return, all I ask is that you donate at least INR 250/$3.5 to an Indian COVID relief charitable organization of your choice, such as Hemkunt Foundation, GiveIndia, Swasth Alliance, Goonj, etc and show me the receipt with the date. (donations links in Bio)
 
 
-![](../../public/images/unique-thyme.png)
+![](images/unique-thyme.png)
