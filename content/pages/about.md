@@ -3,14 +3,14 @@ title: How Does Art For Covid Work?
 subtitle: '"Art For Covid" by Dhairya Nagpal Store'
 img_path: images/about.jpg
 seo:
-  title: About Me
+  title: About
   description: A page about me and my work
   extra:
     - name: 'og:type'
       value: website
       keyName: property
     - name: 'og:title'
-      value: About Me
+      value: About
       keyName: property
     - name: 'og:description'
       value: A page about me and my work
