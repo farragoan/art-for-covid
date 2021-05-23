@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: ART FOR COVID
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
