@@ -42,7 +42,7 @@ seo:
       relativeUrl: true
 layout: post
 thumb_img_path: images/1.jpg
-content_img_path: images/1.jpg
+content_img_path: images/ART FOR COVID-3.png
 ---
 
 
