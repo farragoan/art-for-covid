@@ -38,7 +38,7 @@
                 "url": "https://twitter.com/",
                 "style": "icon",
                 "icon_class": "facebook",
-                "new_window": true
+                "new_window": false
             },
             {
                 "label": "Instagram",
