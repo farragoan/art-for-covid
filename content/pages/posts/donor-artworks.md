@@ -43,7 +43,4 @@ content_img_path: images/ART FOR COVID-3.png
 ---
 ![](/\_static/app-assets/5.png)
 
-![](/\_static/app-assets/3.png)
-
-
-
+![](/\_static/app-assets/3.png)![](/\_static/app-assets/Untitled_Artwork%20copy.png)
