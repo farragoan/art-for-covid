@@ -1,7 +1,7 @@
 ---
 title: Donor Artworks
 subtitle: Some of the donor artworks from "Art For Covid"
-img_path: images/style-guide.jpg
+img_path: images/ART FOR COVID-3.png
 seo:
   title: Theme Style Guide
   description: A reference for suggested typographic treatment and styles for your content
