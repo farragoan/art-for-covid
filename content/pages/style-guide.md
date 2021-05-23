@@ -1,6 +1,6 @@
 ---
 title: Donor Artworks
-subtitle: Some of the donor artworks from
+subtitle: Some of the donor artworks from "Art For Covid"
 img_path: images/style-guide.jpg
 seo:
   title: Theme Style Guide
