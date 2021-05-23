@@ -1,6 +1,6 @@
 ---
 title: Donor Artworks
-subtitle: Some of the artwork created for Art for Covid
+subtitle: Some of the artwork created for Art for Covid.
 date: '2021-05-23'
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 excerpt: >-
