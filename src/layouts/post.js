@@ -6,8 +6,7 @@ import {Layout} from '../components/index';
 import HeaderAlt from '../components/HeaderAlt';
 import Header from '../components/Header';
 import {htmlToReact, markdownify} from '../utils';
-import Footer from '../components/Footer';
-
+import Footer from '../components/Footer'
 export default class Post extends React.Component {
     render() {
         return (
