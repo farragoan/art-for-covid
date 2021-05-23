@@ -1,9 +1,9 @@
 ---
 title: Why Art For Covid?
 excerpt: >-
-  Hiking is sometimes referred to as such. This specifically refers to difficult
-  walking through dense forest, undergrowth, or bushes, where forward progress
-  requires pushing vegetation aside.
+  Art for COVID is an initiative by Dhairya Nagpal aimed at raising funds for
+  organisations involved in humanitarian efforts against the second wave of
+  COVID-19 in India.
 thumb_img_path: images/charming-ant.png
 thumb_img_alt: A man standing on a rock cliff overlooking a river
 content_img_path: images/1.jpg
