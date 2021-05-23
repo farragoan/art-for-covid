@@ -55,7 +55,7 @@
                 "new_window": true
             },
             {
-                "label": "D",
+                "label": "Donation LInk",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
