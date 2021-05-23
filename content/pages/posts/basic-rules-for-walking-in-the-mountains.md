@@ -41,5 +41,4 @@ seo:
       relativeUrl: true
 layout: post
 ---
-
-
+Art for COVID is an initiative by Dhairya Nagpal aimed at raising funds for organisations involved in humanitarian efforts against the second wave of COVID-19 in India. 
