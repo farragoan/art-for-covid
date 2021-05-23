@@ -8,7 +8,7 @@ excerpt: >-
   raise funds through art for the Covid Crisis in India during the summer of
   2021
 date: '2020-01-11'
-thumb_img_path: 'images/#artforchange Campai.png'
+thumb_img_path: images/perpetual-sparrow.png
 thumb_img_alt: A red fox sitting on a meadow
 content_img_path: images/10.jpg
 seo:
