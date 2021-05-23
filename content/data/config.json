@@ -1,5 +1,5 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Art For Covid",
     "path_prefix": "/",
     "palette": "yellow",
     "header": {
@@ -66,7 +66,7 @@
         ]
     },
     "footer": {
-        "content": "Dhairya Nagpal Store. All rights reserved"
+        "content": "© Dhairya Nagpal Store. All rights reserved"
     },
-    "domain": "https://art-for-covid-9f834.netlify.app"
+    "domain": "https://art-for-covid.netlify.app"
 }
