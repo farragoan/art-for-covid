@@ -44,4 +44,3 @@ layout: post
 thumb_img_path: images/1.jpg
 content_img_path: images/ART FOR COVID-3.png
 ---
-![](https://drive.google.com/file/d/1ExGtw7vGp0c4xS6yXzx2ejkPc1U2VGAm/view?usp=sharing)
